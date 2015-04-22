@@ -1,0 +1,11 @@
+cd <path> --> change the working directory to <path>
+ls <path> --> lists the directory content of <path>
+ls -la -->  lists hidden files and folders, also you can see permissions, file size, modified dates as well as some other information
+ls -p -->  instruct Bash to list out directories with a trailing /
+clear --> clean up your view and give you a nice clean Terminal window to work with
+touch <new-file> --> creating a new file named <new-file>
+rm <file> --> delete a file
+mkdir foo --> create a directory called foo
+mv <source> <target> --> renameing files -- mv command takes two arguments, the first is the file you want to change and the second is the result you want 
+cp <source> <target> -->  copying a file from one location to another
+cp -r directory_1/ directory_2 -->  only copy the contents of the directory in to the new location

@@ -1,0 +1,8 @@
+git add <file> --> Adds any changes inside <file> to the staging area
+git commit -m '<message>' --> Commits the staging area to the repository with a <message>
+git checkout <my_branch> --> checked out a branch named <my_branch>
+git branch --> list out the branches
+git pull origin master --> The git pull command combines two other commands, git fetch and git merge.
+git checkout -b <my-new-feature-branch> --> command will create a new branch from master as well checkout out that new branch at the same time.
+git pull origin <my-new-feature-branch> --> fetch and merge any changes on the remote repo into my local brach with the changes, thus now allowing you to push.
+
